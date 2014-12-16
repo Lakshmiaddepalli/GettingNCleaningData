@@ -24,22 +24,22 @@ on the mean and standard deviation. All measurements appear to be floating point
 * Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:  
 
 
-1. walking  
+1.walking  
 
 
-2. walkingupstairs  
+2.walkingupstairs  
 
 
 3.walkingdownstairs  
 
 
-4. sitting  
+4.sitting  
 
 
 5.standing  
 
 
-6. laying 
+6.laying 
 
 * The script also appropriately labels the data set with descriptive names: all feature
 names (attributes) and activity names are converted to lower case, underscores and brackets () 
@@ -49,21 +49,22 @@ data frame such that the first column contains subject IDs, the second column ac
 last 66 columns are measurements. Subject IDs are integers between 1 and 30 inclusive. The names of the
 attributes are similar to the following:  
 
-1. tbodyacc-mean-x   
+1.tbodyacc-mean-x   
 
 
-2. tbodyacc-mean-y  
+2.tbodyacc-mean-y  
 
 
-3. tbodyacc-mean-z   
+3 tbodyacc-mean-z   
 
 
-4. tbodyacc-std-x   
+4.tbodyacc-std-x   
+
 
 5. tbodyacc-std-y   
 
 
- 6. tbodyacc-std-z   
+6. tbodyacc-std-z   
 
 
 7. tgravityacc-mean-x   
