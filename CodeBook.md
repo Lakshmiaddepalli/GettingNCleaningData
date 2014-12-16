@@ -61,16 +61,16 @@ attributes are similar to the following:
 4.tbodyacc-std-x   
 
 
-5. tbodyacc-std-y   
+5.tbodyacc-std-y   
 
 
-6. tbodyacc-std-z   
+6.tbodyacc-std-z   
 
 
-7. tgravityacc-mean-x   
+7.tgravityacc-mean-x   
 
 
-8. tgravityacc-mean-y  
+8.tgravityacc-mean-y  
 
 * Finally, the script creates a 2nd, independent tidy data set with the average of each 
 measurement for each activity and each subject. The result is saved as DataSetWithAverages.txt,
